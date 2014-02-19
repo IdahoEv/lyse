@@ -1,0 +1,4 @@
+Things to improve on:
+  pattern matching - LYSE uses this term without ever properly defining it
+  cons operator (|) - need a stronger grasp of this
+  mnemonic for =:= vs. ==
